@@ -58,8 +58,8 @@ export interface CustormButtonProps {
 }
 
 export const btnPadding = {
-  medium: '14',
-  small: '8'
+  medium: '13px 20px',
+  small: '8px 16px'
 }
 
 export type ButtonProps = CustormButtonProps &
